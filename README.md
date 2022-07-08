@@ -1,1 +1,1 @@
-# heart_failure_tiny_ml
+# heart_failure_timy_ml
